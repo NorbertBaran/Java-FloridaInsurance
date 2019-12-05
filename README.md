@@ -1,4 +1,4 @@
-## Zadanie do wykładu 7: ubezpieczenia na Florydznie. ##
+## Zadanie do wykładu 7: ubezpieczenia na Florydzie. ##
 
 Plik `FL_insurance.csv.zip` zawiera dane o ubezpieczeniach na Florydzie w latach 2011-2012. Jest ich całkiem sporo, toteż plik jest spakowany.
 
